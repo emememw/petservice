@@ -10,6 +10,6 @@ module.exports = {
 		commonName: String,
 		scientificName: String,
 		dateOfBirth: Date,
-		image: Buffer,
+		image: String,
 	},
 };
